@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Apna_College/Apna_College.iml" filepath="$PROJECT_DIR$/Apna_College/Apna_College.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayDSAProblem/ArrayDSAProblem.iml" filepath="$PROJECT_DIR$/ArrayDSAProblem/ArrayDSAProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AssProblem/AssProblem.iml" filepath="$PROJECT_DIR$/AssProblem/AssProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA-_IN_JAVA.iml" filepath="$PROJECT_DIR$/.idea/DSA-_IN_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA1Basics/DSA1Basics.iml" filepath="$PROJECT_DIR$/DSA1Basics/DSA1Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA_Problem/DSA_Problem.iml" filepath="$PROJECT_DIR$/DSA_Problem/DSA_Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProgrammingWithHarry/JavaProgrammingWithHarry.iml" filepath="$PROJECT_DIR$/JavaProgrammingWithHarry/JavaProgrammingWithHarry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Newton August/Newton August.iml" filepath="$PROJECT_DIR$/Newton August/Newton August.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Newton_July/Newton_July.iml" filepath="$PROJECT_DIR$/Newton_July/Newton_July.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Problem/Problem.iml" filepath="$PROJECT_DIR$/Problem/Problem.iml" />
+    </modules>
+  </component>
+</project>
