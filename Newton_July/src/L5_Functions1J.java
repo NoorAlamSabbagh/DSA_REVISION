@@ -19,7 +19,7 @@ import java.util.*;
 
 //code 2
 /*
-public class L5_Functions {
+ class L5_Functions {
     public static int add(int a, int b){
         // Task
         //int c = a+b;
@@ -50,7 +50,8 @@ public class L5_Functions {
 
     }
 }
- */
+*/
+
 
 //code 3
 /*public class L5_Functions1J {
@@ -84,32 +85,33 @@ public class L5_Functions {
     }
 }
  */
+
 //code 5
-public class L5_Functions1J {
-    public static void main(String[] args) {
-        int x = 20;
-        //x++
-
-        int y = 20;
-        //++y;
-
-        //System.out.println("x => " +   x++);
-        //System.out.println("y => " +   ++y);
-
-        //System.out.println();
-        //System.out.println();
-
-        //System.out.println("x => " +   x);
-        //System.out.println("y => " +   y);
-
-
-        System.out.println("x => " +   x--);
-        System.out.println("y => " +   --y);
-
-        System.out.println();
-        System.out.println();
-
-        System.out.println("x => " +   x);
-        System.out.println("y => " +   y);
-    }
-}
+// public class L5_Functions1J {
+//    public static void main(String[] args) {
+//        int x = 20;
+//        //x++
+//
+//        int y = 20;
+//        //++y;
+//
+//        //System.out.println("x => " +   x++);
+//        //System.out.println("y => " +   ++y);
+//
+//        //System.out.println();
+//        //System.out.println();
+//
+//        //System.out.println("x => " +   x);
+//        //System.out.println("y => " +   y);
+//
+//
+//        System.out.println("x => " +   x--);
+//        System.out.println("y => " +   --y);
+//
+//        System.out.println();
+//        System.out.println();
+//
+//        System.out.println("x => " +   x);
+//        System.out.println("y => " +   y);
+//    }
+//}
